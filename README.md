@@ -1,13 +1,4 @@
 
-
-
-
-
-
-# Image Caption Generator
-
-**Image Caption Generator - Animal Dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image%20caption%20Generator/Image_Caption_Generator_Animal_Dataset.ipynb)
-
 # Computer Vision (CV)
 
 
@@ -31,6 +22,10 @@
 
 
 
+
+# Image Caption Generator
+
+**Image Caption Generator - Animal Dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Image%20caption%20Generator/Image_Caption_Generator_Animal_Dataset.ipynb)
 
 
 
