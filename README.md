@@ -1,7 +1,7 @@
 
 # Computer Vision (CV)
 
-1. **Skin canser using Deep Learning** [Example](https://github.com/pythonuzgit/Computer-Vision/blob/master/Computer-Vision%20/Skin_canser_using_Deep_Learning.ipynb)
+1. **Skin canser using Deep Learning** [Example](https://github.com/pythonuzgit/Computer-Vision/blob/master/Computer-vision-in-Medical-imaging/Skin_canser_using_Deep_Learning.ipynb)
 1. **Cancer classification using Vision Transformer** [Example](https://github.com/pythonuzgit/Computer-Vision/blob/master/Computer-vision-in-Medical-imaging/Cancer_classification_using_Vision_Transformer.ipynb)
 1. **TensorFlow: Dolphins vs whale image classification using TensorFlow** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Dolphin_vs_whale_classification.ipynb)
 2. **TensorFlow: Lake water and river water image classification using TensorFlow** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Lake_water_and_river_water_image_classification_with_TensorFlow.ipynb)
