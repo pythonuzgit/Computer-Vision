@@ -24,7 +24,7 @@
 # Convolutional Neural Network (CNN)
 
 
-2. **Image_Classification_using_PyTorch_with_Flowers_dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_using_PyTorch_with_Flowers_dataset.ipynb)
+1. **Image_Classification_using_PyTorch_with_Flowers_dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_using_PyTorch_with_Flowers_dataset.ipynb)
 3. **Image_classification_model_using_PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_model_using_PyTorch.ipynb)
 5. **Image classification usingPyTorch with paddy pests dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_PyTorch_with_paddy_pests_dataset.ipynb)
 7. **Image classification with Deep Learning** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_wit_DL.ipynb)
