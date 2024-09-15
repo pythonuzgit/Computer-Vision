@@ -26,7 +26,6 @@
 
 2. **Image_Classification_using_PyTorch_with_Flowers_dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_using_PyTorch_with_Flowers_dataset.ipynb)
 3. **Image_classification_model_using_PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_model_using_PyTorch.ipynb)
-4. **Image_classification_using_CNN_in_PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_CNN_in_PyTorch.ipynb)
 5. **Image classification usingPyTorch with paddy pests dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_PyTorch_with_paddy_pests_dataset.ipynb)
 6. **Convolutional%20neural%20network/Image_classification_with_DL** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_wit_DL.ipynb)
 7. **Lightning_for_is_she's_gorgeous_classification** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Lightning_for_is_she's_gorgeous_classification_.ipynb)
