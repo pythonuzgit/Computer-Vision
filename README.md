@@ -21,8 +21,8 @@
 17. **PyTorch: Flowers dataset image classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_using_PyTorch_with_Flowers_dataset.ipynb)
 18. **PyTorch: Muffin and Chihuahua image classification using PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Computer%20Vision/Muffin_vs_Chihuahua_image_classification_using_PyTorch.ipynb)
 
-
-
+# Concolutional Neural Network (CNN)
+**** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_model_using_PyTorch_with_applescablds.ipynb)
 
 # Image Caption Generator
 
