@@ -23,7 +23,7 @@
 
 # Convolutional Neural Network (CNN)
 
-1. **Image Classification model using PyTorch with applescablds** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_model_using_PyTorch_with_applescablds.ipynb)
+
 2. **Image_Classification_using_PyTorch_with_Flowers_dataset** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_Classification_using_PyTorch_with_Flowers_dataset.ipynb)
 3. **Image_classification_model_using_PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_model_using_PyTorch.ipynb)
 4. **Image_classification_using_CNN_in_PyTorch** [Example](https://github.com/pythonuzgit/elmurodov/blob/master/Convolutional%20neural%20network/Image_classification_using_CNN_in_PyTorch.ipynb)
