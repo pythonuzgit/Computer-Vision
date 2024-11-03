@@ -2,6 +2,8 @@
 # Computer Vision (CV)
 
 
+
+1. **Dog breed image retrieval dataset Prediction** [Example](https://github.com/pythonuzgit/Computer-Vision/blob/master/Computer%20Vision/Dog_breed_image_retrieval_dataset_Prediction.ipynb)
 1. **African plums classification analysis with ModeleNetV2** [Example](https://github.com/pythonuzgit/Computer-Vision/blob/master/Computer%20Vision/African_plums_classification_analysis_with_ModeleNetV2.ipynb)
 1. **Skin canser using Deep Learning** [Example](https://github.com/pythonuzgit/Computer-Vision/blob/master/Computer-vision-in-Medical-imaging/Skin_canser_using_Deep_Learning.ipynb)
 1. **Cancer classification using Vision Transformer** [Example](https://github.com/pythonuzgit/Computer-Vision/blob/master/Computer-vision-in-Medical-imaging/Cancer_classification_using_Vision_Transformer.ipynb)
